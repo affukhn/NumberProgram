@@ -14,7 +14,7 @@ class  CountDigit
 		while(num>0) //while(num!=0)
 		{
 			num/=10;
-                       count++;
+            count++;
 		}
 		return count;
 	}
